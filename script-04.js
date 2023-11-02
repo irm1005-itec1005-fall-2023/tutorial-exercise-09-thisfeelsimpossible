@@ -107,7 +107,8 @@ function calculateAverage(randomNumbers) {
   // Uncomment the line below if you want to have the average rounded at 2 decimal places
   // average = average.toFixed(2);
 
-  return average;
+  return average.toFixed(2);
+ 
 }
 
 // CONGRATULATIONS - THIS CONCLUDES STEP 04
